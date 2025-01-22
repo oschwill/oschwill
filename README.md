@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony%205-000000?style=flat&logo=symfony&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony%206-000000?style=flat&logo=symfony&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
